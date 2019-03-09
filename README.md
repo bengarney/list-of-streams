@@ -4,6 +4,8 @@ Community list of public test streams for HLS and DASH.
 
 Please open PRs with any additional streams (or removing dead streams).
 
+If you are a vendor and you have public test streams for specific features/services, you are welcome to post them here.
+
 ## HLS
 
 * [NASA](https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8)
@@ -29,7 +31,23 @@ Please open PRs with any additional streams (or removing dead streams).
 * [Vodobox 4k](http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8)
 * [JW Jelly Stream Live](https://wowza.jwplayer.com/live/jelly.stream/playlist.m3u8)
 * [TV5Monde w/ Primary and Backup](https://tv5mondehlslive-i.akamaihd.net/hls/live/250600/4792245510001-5/tv5plusinfo/playlist.m3u8)
+* [DolbyVision HLS](http://d3rlna7iyyu8wu.cloudfront.net/DolbyVision_Atmos/profile5_HLS/master.m3u8)
+* [Dolby Universe Fury - Atmos h.264](http://d3rlna7iyyu8wu.cloudfront.net/Atmos/HLS/universe_fury_HLS/Universe_Fury_10000000.m3u8)
+* [Dolby Shattered - Atmos h.264](http://d3rlna7iyyu8wu.cloudfront.net/Atmos/HLS/shattered_HLS/Shattered_10000000.m3u8)
+* [Dolby Digital Plus 5.1 h.264](http://d9zmmjtv72w5o.cloudfront.net/developer_portal/Dolby_Digital_Plus51_AVC/HLS/Living-Room_51_30p.m3u8)
+* [Dolby Digital Plus 7.1 h.264](http://d9zmmjtv72w5o.cloudfront.net/developer_portal/Dolby_Digital_Plus_71_AVC/HLS/Living-Room_71_30p.m3u8)
 
 ## DASH
 
 * [BBC Diagnostic](http://rdmedia.bbc.co.uk/dash/ondemand/testcard/1/client_manifest-events.mpd) Includes many diagnostic cues.
+* [DolbyVision DASH](http://d3rlna7iyyu8wu.cloudfront.net/DolbyVision_Atmos/profile8.1_DASH/p8.1.mpd)
+* [Dolby Universe Fury - Atmos h.264](http://d3rlna7iyyu8wu.cloudfront.net/Atmos/DASH/universe_fury_DASH/Universe_Fury_10000000.mpd)
+* [Dolby Shattered - Atmos h.264](http://d3rlna7iyyu8wu.cloudfront.net/Atmos/DASH/dolby_shattered_DASH/Shattered_10000000.mpd)
+* [Dolby Digital Plus 5.1 h.264](http://d9zmmjtv72w5o.cloudfront.net/developer_portal/Dolby_Digital_Plus51_AVC/DASH/Living-Room_51_30p.mpd)
+* [Dolby Digital Plus 7.1 h.264](http://d9zmmjtv72w5o.cloudfront.net/developer_portal/Dolby_Digital_Plus_71_AVC/DASH/Living-Room_71_30p.mpd)
+
+## Developer Kits
+
+This section is for test kits/services which require free registration to access, and other useful assets which are not playable stream URLs.
+
+
