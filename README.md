@@ -8,6 +8,7 @@ Guidelines:
  * Stick notes on streams that have notable qualities (includes diagnostic cues, has h.265, etc.)
  * No NSFW content, since most people using this list will be doing so professionally.
  * Vendors are welcome to post streams to the list, even (especially) if they demonstrate your features.
+ * Working streams with broken bits are great, too - just note what is broken about them.
 
 ## HLS
 
