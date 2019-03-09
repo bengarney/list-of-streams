@@ -2,9 +2,12 @@
 
 Community list of public test streams for HLS and DASH.
 
-Please open PRs with any additional streams (or removing dead streams).
-
-If you are a vendor and you have public test streams for specific features/services, you are welcome to post them here.
+Guidelines:
+ * Open a PR adding items if you know of streams that aren't on the list.
+ * Open a PR removing items if they are dead.
+ * Stick notes on streams that have notable qualities (includes diagnostic cues, has h.265, etc.)
+ * No NSFW content, since most people using this list will be doing so professionally.
+ * Vendors are welcome to post streams to the list, even (especially) if they demonstrate your features.
 
 ## HLS
 
