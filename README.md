@@ -43,6 +43,7 @@ Guidelines:
 
 ## DASH
 
+* [DASH-IF Test Stream Database](http://testassets.dashif.org/)
 * [BBC Diagnostic](http://rdmedia.bbc.co.uk/dash/ondemand/testcard/1/client_manifest-events.mpd) Includes many diagnostic cues.
 * [DolbyVision DASH](http://d3rlna7iyyu8wu.cloudfront.net/DolbyVision_Atmos/profile8.1_DASH/p8.1.mpd)
 * [Dolby Universe Fury - Atmos h.264](http://d3rlna7iyyu8wu.cloudfront.net/Atmos/DASH/universe_fury_DASH/Universe_Fury_10000000.mpd)
@@ -53,5 +54,3 @@ Guidelines:
 ## Developer Kits
 
 This section is for test kits/services which require free registration to access, and other useful assets which are not playable stream URLs.
-
-
