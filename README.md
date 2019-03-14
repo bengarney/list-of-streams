@@ -40,16 +40,23 @@ Guidelines:
 * [Dolby Shattered - Atmos h.264](http://d3rlna7iyyu8wu.cloudfront.net/Atmos/HLS/shattered_HLS/Shattered_10000000.m3u8)
 * [Dolby Digital Plus 5.1 h.264](http://d9zmmjtv72w5o.cloudfront.net/developer_portal/Dolby_Digital_Plus51_AVC/HLS/Living-Room_51_30p.m3u8)
 * [Dolby Digital Plus 7.1 h.264](http://d9zmmjtv72w5o.cloudfront.net/developer_portal/Dolby_Digital_Plus_71_AVC/HLS/Living-Room_71_30p.m3u8)
+* [Playhouse VR](https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/105560.m3u8)
 
 ## DASH
 
 * [DASH-IF Test Stream Database](http://testassets.dashif.org/)
+* [University Klagenfurt DASH Dataset](https://dash.itec.aau.at/dash-dataset/)
+* [University Klagenfurt Distributed DASH Dataset](https://dash.itec.aau.at/distributed-dash-datset/)
+* [UHD HVEC DASH Dataset](http://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/)
 * [BBC Diagnostic](http://rdmedia.bbc.co.uk/dash/ondemand/testcard/1/client_manifest-events.mpd) Includes many diagnostic cues.
 * [DolbyVision DASH](http://d3rlna7iyyu8wu.cloudfront.net/DolbyVision_Atmos/profile8.1_DASH/p8.1.mpd)
 * [Dolby Universe Fury - Atmos h.264](http://d3rlna7iyyu8wu.cloudfront.net/Atmos/DASH/universe_fury_DASH/Universe_Fury_10000000.mpd)
 * [Dolby Shattered - Atmos h.264](http://d3rlna7iyyu8wu.cloudfront.net/Atmos/DASH/dolby_shattered_DASH/Shattered_10000000.mpd)
 * [Dolby Digital Plus 5.1 h.264](http://d9zmmjtv72w5o.cloudfront.net/developer_portal/Dolby_Digital_Plus51_AVC/DASH/Living-Room_51_30p.mpd)
 * [Dolby Digital Plus 7.1 h.264](http://d9zmmjtv72w5o.cloudfront.net/developer_portal/Dolby_Digital_Plus_71_AVC/DASH/Living-Room_71_30p.mpd)
+* [Playhouse VR](https://bitmovin-a.akamaihd.net/content/playhouse-vr/mpds/105560.mpd)
+* [GPAC Sequences](https://gpac.wp.imt.fr/2012/02/23/dash-sequences/)
+* [Bitmovin Demos](https://bitmovin.com/demos/)
 
 ## Developer Kits
 
