@@ -47,7 +47,6 @@ Guidelines:
 * [DASH-IF Test Stream Database](http://testassets.dashif.org/)
 * [University Klagenfurt DASH Dataset](https://dash.itec.aau.at/dash-dataset/)
 * [University Klagenfurt Distributed DASH Dataset](https://dash.itec.aau.at/distributed-dash-datset/)
-* 
 * [UHD HVEC DASH Dataset](http://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/)
 * [BBC Diagnostic](http://rdmedia.bbc.co.uk/dash/ondemand/testcard/1/client_manifest-events.mpd) Includes many diagnostic cues.
 * [DolbyVision DASH](http://d3rlna7iyyu8wu.cloudfront.net/DolbyVision_Atmos/profile8.1_DASH/p8.1.mpd)
