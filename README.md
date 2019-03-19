@@ -89,6 +89,8 @@ Guidelines:
 
 This section is for test kits/services which require free registration to access, and other useful assets which are not playable stream URLs.
 
+* [Apple HLS Examples Directory](https://developer.apple.com/streaming/examples/)
+* [Apple Example Playlists Documentation](https://developer.apple.com/documentation/http_live_streaming/example_playlists_for_http_live_streaming)
 * [DASH-IF Test Stream Database](http://testassets.dashif.org/)
 * [University Klagenfurt DASH Dataset](https://dash.itec.aau.at/dash-dataset/)
 * [University Klagenfurt Distributed DASH Dataset](https://dash.itec.aau.at/distributed-dash-datset/)
