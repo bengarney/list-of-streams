@@ -54,6 +54,37 @@ Guidelines:
 * [GPAC Sequences](https://gpac.wp.imt.fr/2012/02/23/dash-sequences/)
 * [Bitmovin Demos](https://bitmovin.com/demos/)
 
+## DASH-IF Test Streams
+
+* [http://dash.akamaized.net/dash264/TestCases/1a/qualcomm/1/MultiRate.mpd](http://dash.akamaized.net/dash264/TestCases/1a/qualcomm/1/MultiRate.mpd)
+* [http://dash.akamaized.net/dash264/TestCases/1b/qualcomm/2/MultiRate.mpd](http://dash.akamaized.net/dash264/TestCases/1b/qualcomm/2/MultiRate.mpd)
+* [http://dash.akamaized.net/dash264/TestCases/1c/qualcomm/1/MultiRate.mpd](http://dash.akamaized.net/dash264/TestCases/1c/qualcomm/1/MultiRate.mpd)
+* [http://dash.akamaized.net/dash264/TestCases/2a/qualcomm/1/MultiResMPEG2.mpd](http://dash.akamaized.net/dash264/TestCases/2a/qualcomm/1/MultiResMPEG2.mpd)
+* [http://dash.akamaized.net/dash264/TestCases/2b/qualcomm/2/MultiRes.mpd](http://dash.akamaized.net/dash264/TestCases/2b/qualcomm/2/MultiRes.mpd)
+* [http://dash.akamaized.net/dash264/TestCases/2c/qualcomm/1/MultiResMPEG2.mpd](http://dash.akamaized.net/dash264/TestCases/2c/qualcomm/1/MultiResMPEG2.mpd)
+* [http://dash.akamaized.net/dash264/TestCases/2c/qualcomm/2/MultiRes.mpd](http://dash.akamaized.net/dash264/TestCases/2c/qualcomm/2/MultiRes.mpd)
+* [http://dash.akamaized.net/dash264/TestCases/3a/fraunhofer/aac-lc_stereo_without_video/ElephantsDream/elephants_dream_audio_only_aaclc_stereo_sidx.mpd](http://dash.akamaized.net/dash264/TestCases/3a/fraunhofer/aac-lc_stereo_without_video/ElephantsDream/elephants_dream_audio_only_aaclc_stereo_sidx.mpd)
+* [http://dash.akamaized.net/dash264/TestCases/3b/fraunhofer/aac-lc_stereo_with_video/ElephantsDream/elephants_dream_480p_aaclc_stereo_sidx.mpd](http://dash.akamaized.net/dash264/TestCases/3b/fraunhofer/aac-lc_stereo_with_video/ElephantsDream/elephants_dream_480p_aaclc_stereo_sidx.mpd)
+* [http://dash.akamaized.net/dash264/TestCases/5b/nomor/6.mpd](http://dash.akamaized.net/dash264/TestCases/5b/nomor/6.mpd)
+* [http://dash.akamaized.net/dash264/TestCases/5b/nomor/8.mpd](http://dash.akamaized.net/dash264/TestCases/5b/nomor/8.mpd)
+* [http://dash.akamaized.net/dash264/TestCases/5b/nomor/9.mpd](http://dash.akamaized.net/dash264/TestCases/5b/nomor/9.mpd)
+* [http://dash.akamaized.net/dash264/TestCases/9a/qualcomm/1/MultiRate.mpd](http://dash.akamaized.net/dash264/TestCases/9a/qualcomm/1/MultiRate.mpd)
+* [http://dash.akamaized.net/dash264/TestCases/9b/qualcomm/1/MultiRate.mpd](http://dash.akamaized.net/dash264/TestCases/9b/qualcomm/1/MultiRate.mpd)
+* [http://dash.akamaized.net/dash264/TestCases/9c/qualcomm/1/MultiRate.mpd](http://dash.akamaized.net/dash264/TestCases/9c/qualcomm/1/MultiRate.mpd)
+* [http://dash.akamaized.net/dash264/TestCasesHD/1a/qualcomm/1/MultiRate.mpd](http://dash.akamaized.net/dash264/TestCasesHD/1a/qualcomm/1/MultiRate.mpd)
+* [http://dash.akamaized.net/dash264/TestCasesHD/1b/qualcomm/2/MultiRate.mpd](http://dash.akamaized.net/dash264/TestCasesHD/1b/qualcomm/2/MultiRate.mpd)
+* [http://dash.akamaized.net/dash264/TestCasesHD/1c/qualcomm/1/MultiRate.mpd](http://dash.akamaized.net/dash264/TestCasesHD/1c/qualcomm/1/MultiRate.mpd)
+* [http://dash.akamaized.net/dash264/TestCasesHD/2b/DTV/1/live.mpd](http://dash.akamaized.net/dash264/TestCasesHD/2b/DTV/1/live.mpd)
+* [http://dash.akamaized.net/dash264/TestCasesHD/2c/qualcomm/1/MultiResMPEG2.mpd](http://dash.akamaized.net/dash264/TestCasesHD/2c/qualcomm/1/MultiResMPEG2.mpd)
+* [http://dash.akamaized.net/dash264/TestCasesMCA/fraunhofer/HE-AACv2_Multichannel/1/6chID/6chId_480p_single_adapt_heaac5_1_sidx.mpd](http://dash.akamaized.net/dash264/TestCasesMCA/fraunhofer/HE-AACv2_Multichannel/1/6chID/6chId_480p_single_adapt_heaac5_1_sidx.mpd)
+* [http://dash.akamaized.net/dash264/TestCasesMCA/fraunhofer/HE-AACv2_Multichannel/2/8chID/8ch_id_480p_single_adapt_heaac7_1_cf12_sidx.mpd](http://dash.akamaized.net/dash264/TestCasesMCA/fraunhofer/HE-AACv2_Multichannel/2/8chID/8ch_id_480p_single_adapt_heaac7_1_cf12_sidx.mpd)
+* [http://dash.akamaized.net/dash264/TestCasesMCA/fraunhofer/MPEGH_Stereo/1/sintel_audio_video_mpegh_stereo_sidx.mpd](http://dash.akamaized.net/dash264/TestCasesMCA/fraunhofer/MPEGH_Stereo/1/sintel_audio_video_mpegh_stereo_sidx.mpd)
+* [http://dash.akamaized.net/dash264/TestCasesMCA/fraunhofer/MPEGH_51/1/sintel_audio_video_mpegh_5_1_brs_sidx.mpd](http://dash.akamaized.net/dash264/TestCasesMCA/fraunhofer/MPEGH_51/1/sintel_audio_video_mpegh_5_1_brs_sidx.mpd)
+* [http://dash.akamaized.net/dash264/TestCasesHEVC/1a/1/TOS_OnDemand_HEVC_MultiRate.mpd](http://dash.akamaized.net/dash264/TestCasesHEVC/1a/1/TOS_OnDemand_HEVC_MultiRate.mpd)
+* [http://dash.akamaized.net/dash264/TestCasesHEVC/1a/2/BBB_OnDemand_HEVC_MultiRate.mpd](http://dash.akamaized.net/dash264/TestCasesHEVC/1a/2/BBB_OnDemand_HEVC_MultiRate.mpd)
+* [https://living.video/MPD/test6.mpd](https://living.video/MPD/test6.mpd)
+* [https://living.video/MPD/test8.mpd](https://living.video/MPD/test8.mpd)
+
 ## Developer Kits
 
 This section is for test kits/services which require free registration to access, and other useful assets which are not playable stream URLs.
