@@ -41,6 +41,7 @@ Guidelines:
 * [Dolby Digital Plus 5.1 h.264](http://d9zmmjtv72w5o.cloudfront.net/developer_portal/Dolby_Digital_Plus51_AVC/HLS/Living-Room_51_30p.m3u8)
 * [Dolby Digital Plus 7.1 h.264](http://d9zmmjtv72w5o.cloudfront.net/developer_portal/Dolby_Digital_Plus_71_AVC/HLS/Living-Room_71_30p.m3u8)
 * [Playhouse VR](https://bitmovin-a.akamaihd.net/content/playhouse-vr/m3u8s/105560.m3u8)
+* [ABC Live](https://abclive1-lh.akamaihd.net/i/abc_live05@423399/master.m3u8)
 
 ## DASH
 
