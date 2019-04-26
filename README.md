@@ -85,6 +85,7 @@ Guidelines:
 * [http://dash.akamaized.net/dash264/TestCasesHEVC/1a/2/BBB_OnDemand_HEVC_MultiRate.mpd](http://dash.akamaized.net/dash264/TestCasesHEVC/1a/2/BBB_OnDemand_HEVC_MultiRate.mpd)
 * [https://living.video/MPD/test6.mpd](https://living.video/MPD/test6.mpd)
 * [https://living.video/MPD/test8.mpd](https://living.video/MPD/test8.mpd)
+* [http://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/] Telecom ParisTech UHD/HEVC/10 bit color stream.
 
 ## Developer Kits
 
