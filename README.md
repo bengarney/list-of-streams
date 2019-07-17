@@ -97,3 +97,4 @@ This section is for test kits/services which require free registration to access
 * [University Klagenfurt DASH Dataset](https://dash.itec.aau.at/dash-dataset/)
 * [University Klagenfurt Distributed DASH Dataset](https://dash.itec.aau.at/distributed-dash-datset/)
 * [UHD HVEC DASH Dataset](http://download.tsi.telecom-paristech.fr/gpac/dataset/dash/uhd/)
+* [Eurofins HLS Test Set](https://hlstests.eurofins-digitaltesting.com/) (free registration 30 days, paid thereafter)
