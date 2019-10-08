@@ -12,6 +12,7 @@ Guidelines:
 
 ## HLS
 
+* [IPTV-org](https://github.com/iptv-org/iptv) Collection of 8000+ publicly available IPTV channels from all over the world. (Some region locked/unavailable.)
 * [NASA](https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8)
 * [Folgers](http://cdnbakmi.kaltura.com/p/243342/sp/24334200/playManifest/entryId/0_uka1msg4/flavorIds/1_vqhfu6uy,1_80sohj7p/format/applehttp/protocol/http/a.m3u8)
 * [Kaltura](http://cdnapi.kaltura.com/p/1878761/sp/187876100/playManifest/entryId/1_2xvajead/flavorIds/1_tl01409m,1_kptb3ez8,1_re3akioy,1_wuylsxwp/format/applehttp/protocol/http/a.m3u8)
