@@ -12,6 +12,7 @@ Guidelines:
 
 ## HLS
 
+* [CBS Live](https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/716d0a46-d0ce-41e4-bb13-535c1dab2bfb:DLS/master.m3u8) Note: may be time restricted, get latest from [https://www.cbsnews.com/live/](https://www.cbsnews.com/live/)
 * [IPTV-org](https://github.com/iptv-org/iptv) Collection of 8000+ publicly available IPTV channels from all over the world. (Some region locked/unavailable.)
 * [NASA](https://nasa-i.akamaihd.net/hls/live/253565/NTV-Public1/master.m3u8)
 * [Folgers](http://cdnbakmi.kaltura.com/p/243342/sp/24334200/playManifest/entryId/0_uka1msg4/flavorIds/1_vqhfu6uy,1_80sohj7p/format/applehttp/protocol/http/a.m3u8)
